@@ -1,0 +1,8 @@
+Credit Card Fraud Detection System
+
+As we can see usage of credit cards has increased day by day . So, the cases of fraud is also increasing . Here we see the sequence of  credit card transaction processing. 
+The credit card fraud detection uses user actions and location scanning to check for unusual patterns. These patterns include user characteristics such as user spending patterns as well as usual user locations to verify his identity. If any unusual pattern is detected, the system requires to re-verify the persons. 
+The system checks the users credit card information for various characteristics. These characteristics include the information of their country, how the user spending ,users transaction through credit card. Based upon previous data of that user the system recognizes unusual patterns in the payment procedure. So now the system may required the user to login again or even block the user for more than 3 invalid attempts.
+Core Features:
+The system stores previous transaction for each user.
+Based upon the user spending ability and country, it calculates user’s characteristics.
